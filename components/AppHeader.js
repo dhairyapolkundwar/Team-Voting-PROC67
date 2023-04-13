@@ -21,7 +21,8 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'center',
     fontFamily:'Agency FB',
-    fontWeight: 1000
+    fontWeight: 1000,
+    fontStyle: 'italic'
   }
 });
 
